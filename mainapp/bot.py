@@ -1,6 +1,6 @@
 def send_application(name, phone, email):
     import telebot
-    bot = telebot.TeleBot("5214932186:AAEDyaMDAmCEXc4_QzjKoFbo8zajP6PsOvo")
+    bot = telebot.TeleBot("TOKEN")
 
     chat_id = "-1001662935535"
 
